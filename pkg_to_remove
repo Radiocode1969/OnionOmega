@@ -1,0 +1,25 @@
+# packages to remove on Omega 2
+# 
+console-install-tool
+kmod-video-core
+kmod-video-uvc
+kmod-video-videobuf2
+node-red-install-tool
+oled-exp
+ppp
+ppp-mod-pppoe
+pwm-exp
+relay-exp
+setup-wizard
+kmod-hid
+kmod-usb-hid
+kmod-bluetooth
+kmod-hid-generic
+ip6tables
+kmod-ip6tables
+libonionoledexp
+libonionpwmexp
+libonionrelayexp
+odhcpd
+iptables
+odhcp6c
