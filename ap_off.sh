@@ -1,4 +1,4 @@
-# !/bin/sh
+#!/bin/sh
 #use this to disable the Onion Omega access point
 echo "bringing ra0 down"
 ifconfig ra0 down
